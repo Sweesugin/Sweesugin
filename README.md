@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone, I'm I'm Sweetha M</h1>
-<h3 align="center">Hello! I'm Sweetha Muniraj, a passionate and curious learner currently pursuing my degree in **Computer Science and Business Systems**. I love exploring how technology can solve real-world problems and am always eager to learn new tools and frameworks.</h3>
+<h3 align="center">Hello! I'm Sweetha Muniraj, a passionate and curious learner currently pursuing my degree in Computer Science and Business Systems. I love exploring how technology can solve real-world problems and am always eager to learn new tools and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweesugin&label=Profile%20views&color=0e75b6&style=flat" alt="sweesugin" /> </p>
 
